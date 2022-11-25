@@ -137,8 +137,14 @@
                 </DataGrid>
             </StackPanel>
         </StackPanel>
-        <StackPanel Grid.Row="1">
-            <Rectangle  Width="Auto" Height="100" Fill="Black"/>
+        <StackPanel Grid.Row="1" Background="Black">
+            <Button Height="80" Width="80" Margin="-650 10 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="-450 -80 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="-100 -80 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="250 -80 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="450 -80 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="650 -80 0 0" ></Button>
+            <Button Height="80" Width="80" Margin="850 -80 0 0" ></Button>
         </StackPanel>
     </Grid>
 </Page>
