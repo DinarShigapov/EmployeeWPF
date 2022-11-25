@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace EmployeeWPF.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для EmolyeePage.xaml
+    /// Логика взаимодействия для EmployeePage.xaml
     /// </summary>
-    public partial class EmolyeePage : Page
+    public partial class EmployeePage : Page
     {
-        public EmolyeePage()
+        public EmployeePage()
         {
             InitializeComponent();
         }
